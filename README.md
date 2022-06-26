@@ -1,4 +1,4 @@
-### Hi there Iam Muganga-Charles👋
+### This is Muganga-Charles
 
 <img  align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=radical">
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganga-charles&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
