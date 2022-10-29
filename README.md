@@ -4,8 +4,9 @@
 
 <!-- <h3 align="center">A passionate software developer from Uganda</h3> -->
 <!-- - ⚡ Fun fact **Coding Code** -->
-<img  align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=radical" width="47%"> </br></br>
-<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanbahati&show_icons=true&locale=en&layout=compact" alt="muganga-charles" /></p>
+<img  align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=radical" width="47%">
+
+<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanbahati&show_icons=true&locale=en&layout=compact" alt="muganga-charles"width="45%" /></p>
 
 
 <!-- <h3 align="center">A passionate software developer from Uganda</h3> -->
