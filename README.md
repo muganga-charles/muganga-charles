@@ -1,5 +1,5 @@
 <!-- ### This is Muganga-Charles -->
-<h1 align="center">Hi 👋, I'm muganga-Charles</h1>
+<h1 align="center">Hi 👋, I'm Muganga Charles</h1>
 <h3 align="center">A passionate programmer and AI fun from Uganda</h3>
 
 <!-- <h3 align="center">A passionate software developer from Uganda</h3> -->
