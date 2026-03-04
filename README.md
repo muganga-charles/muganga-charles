@@ -124,13 +124,7 @@ My work tends to live in the space where analysis meets engineering. I'm less in
 
 </div>
 
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muganga-charles&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
+---
 <div align="center">
 
 Open to collaborations, consulting, and training engagements.\
