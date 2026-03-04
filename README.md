@@ -113,13 +113,6 @@ My work tends to live in the space where analysis meets engineering. I'm less in
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganga-charles&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muganga-charles&theme=github_dark" />
 
 </div>
