@@ -108,23 +108,35 @@ My work tends to live in the space where analysis meets engineering. I'm less in
 
 ---
 
-## GitHub Statistics
 
-<p align="center">
+### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganga-charles&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganga-charles&layout=compact&theme=github_dark&hide_border=true" />
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=muganga-charles&theme=github-dark-blue&hide_border=true"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muganga-charles&theme=github_dark" />
 
-</p>
+</div>
 
----
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muganga-charles&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muganga-charles&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muganga-charles&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 
 <div align="center">
 
