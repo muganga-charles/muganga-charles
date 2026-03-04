@@ -1,88 +1,118 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muganga Charles</h1>
+<h3 align="center">Data Scientist • Software Engineer • Project Manager</h3>
 
-# Hey there, I'm Muganga Charles 👋
-
-### Data Scientist · Software Developer · Project Manager · Educator
-
-I build tools and packages that turn raw data into **actionable insights**.\
-Based in Uganda, I combine hands-on development with teaching — training the next generation of data scientists and developers.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muganga-charles-824270290/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muganga-charles)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/muganga-charles)
-
-</div>
+<p align="center">
+Building intelligent systems that turn data into actionable insights.
+</p>
 
 ---
 
-### What I Do
+## 👨‍💻 About Me
 
-- **Data Science & Analytics** — Building models, pipelines, and dashboards that extract meaning from complex datasets
-- **Software Development** — Crafting tools, APIs, and packages that put data-driven insights into the hands of users
-- **Training & Mentorship** — Teaching data science and software development through hands-on, project-based curricula
-- **Project Management** — Leading cross-functional teams from ideation through delivery
-
----
-
-### 🛠️ Tech Stack
-
-**Data Science & ML**\
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Software Development**\
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Databases**\
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Cloud & Tools**\
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- 📊 **Data Scientist & Trainer** — Teaching and applying data science, machine learning, and analytics to solve real-world problems.
+- 💻 **Software Developer** — Building scalable backend systems, APIs, and data-driven platforms.
+- 📈 **Project Manager** — Leading projects that combine software engineering and data science to deliver impactful solutions.
+- 🧠 Passionate about **AI, analytics platforms, and intelligent decision systems**.
+- 🛠 I enjoy building **tools, packages, and platforms that transform raw data into actionable insights**.
 
 ---
 
-### GitHub Stats
+## 🚀 Current Focus
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muganga-charles&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganga-charles&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+- Building **data analytics platforms**
+- Developing **AI-powered decision systems**
+- Training students in **data science and software development**
+- Designing **scalable backend architectures**
+- Managing **data-driven software projects**
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-*"The goal is never just to analyze data — it's to build something people can use."*
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=radical"/>
 
-</div>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganga-charles&layout=compact&theme=radical"/>
+
+<br><br><br><br><br><br>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://twitter.com/muganga-charles" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/muganga-charles-824270290/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://stackoverflow.com/users/muganga-charles" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+# 🧰 Technologies & Tools
+
+### 📊 Data Science & Machine Learning
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+</p>
+
+### 💻 Software Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
+</p>
+
+### 🗄 Databases & Data Platforms
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+### 🛠 Other Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+</p>
+
+---
+
+## 🎯 Philosophy
+
+> *“The goal of data science is not just models, but decisions.  
+> The goal of software is not just code, but impact.”*
+
+---
+
+⭐ **If you like my work, feel free to explore my repositories and collaborate!**
