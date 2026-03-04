@@ -4,12 +4,12 @@
 
 **Data Scientist · Software Developer · Project Manager · Educator**
 
-📍 Uganda
+📍Kampala, Uganda
 
-I spend most of my time building tools and packages that sit at the intersection of software engineering and data science, designed to help teams and organizations move from raw data to decisions faster. When I'm not building, I'm teaching. I run training sessions in data science and software development because I believe the best way to understand something deeply is to explain it to someone else.
+I spend most of my time building tools and packages that sit at the intersection of software engineering, data science, and decision-making, designed to help teams and organizations move from raw data to decisions faster. When I'm not building, I'm teaching. I run training sessions in data science and software development because I believe the best way to understand something deeply is to explain it to someone else.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muganga-charles-824270290/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muganga-charles)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mugangacharles5)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/muganga-charles)
 
 </div>
@@ -18,7 +18,7 @@ I spend most of my time building tools and packages that sit at the intersection
 
 ### About
 
-I wear a few hats. As a **data scientist**, I design pipelines, models, and visualization layers that make complex datasets useful. As a **software developer**, I write the production code that wraps those insights into tools people actually use, whether that's an internal package, an API, or a full application. As a **project manager**, I coordinate the moving parts and keep things shipping. And as a **trainer**, I teach all of the above.
+I work across several roles. As a **data scientist**, I design pipelines, models, and visualization layers that make complex datasets useful. As a **software developer**, I write the production code that wraps those insights into tools people actually use, whether that's an internal package, an API, or a full application. As a **project manager**, I coordinate the moving parts and keep things shipping. And as a **trainer**, I regularly design and deliver training in data science, analytics, and software engineering for students and professionals.
 
 My work tends to live in the space where analysis meets engineering. I'm less interested in notebooks that sit on someone's laptop and more interested in data products that run in production and change how people work.
 
@@ -108,20 +108,21 @@ My work tends to live in the space where analysis meets engineering. I'm less in
 
 ---
 
-### GitHub Stats
+## GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muganga-charles&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganga-charles&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
-<div align="center">
+</p>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muganga-charles&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muganga-charles&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
